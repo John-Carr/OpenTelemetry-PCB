@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name OpenTelemetry-rescue)(type Legacy)(uri ${KIPRJMOD}/OpenTelemetry-rescue.lib)(options "")(descr ""))
+)
